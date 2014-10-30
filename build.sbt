@@ -2,7 +2,7 @@ name := "activator-play-slick"
 
 version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.11.2" // or "2.10.4"
+scalaVersion := "2.11.1"
 
 libraryDependencies ++= Seq(
   "org.webjars" %% "webjars-play" % "2.3.0",
